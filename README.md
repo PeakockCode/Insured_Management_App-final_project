@@ -1,2 +1,7 @@
-Final project for the ITnetwork python course. The project is written in English and can be executed from the main.py file. 
-Závěrečný projekt pro kurz ITnetwork v jazyce Python. Projekt je psán v anglickém jazyce. Projekt lze spustit v souboru main.py.
+A simple console application for recording information about insured individuals. The application is launched from the main.py file. 
+    - The application validates information about the insured (ID, name, surname, age, and phone number) and 
+      besides creating an insured person, it also allows for the display of searched individuals as well as all insured individuals.
+
+Jednoduchá konzolová aplikace pro evidenci pojištěných osob. Aplikace se spouští v souboru main.py.
+    - Aplikace eviduje validované informace o pojištěném (id, jméno, příjmení, věk a telefonní číslo) a 
+      kromě vytvoření pojištěného umožňuje také vypsání hledaných osob i všech pojištěných.
