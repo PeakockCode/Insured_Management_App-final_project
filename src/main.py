@@ -1,4 +1,4 @@
-from insurance_logo import *
+from insurance_logo import company_logo
 from user_interface import UserInterface
 
 
