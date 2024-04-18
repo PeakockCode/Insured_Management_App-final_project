@@ -35,7 +35,7 @@ class UserInterface:
                 "----------------------------------------------\n"
                 "Select one option from menu:\n")
 
-    def run_evidence_software(self):
+    def run_evidence(self):
         """
         Main program loop to manage records of insured clients
         (creating new clients, printing records, searching for specific individuals).
